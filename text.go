@@ -14,11 +14,11 @@ import (
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
 
-	"github.com/aarzilli/nucular/clipboard"
-	"github.com/aarzilli/nucular/command"
-	"github.com/aarzilli/nucular/label"
-	"github.com/aarzilli/nucular/rect"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/Varunram/nucular/clipboard"
+	"github.com/Varunram/nucular/command"
+	"github.com/Varunram/nucular/label"
+	"github.com/Varunram/nucular/rect"
+	nstyle "github.com/Varunram/nucular/style"
 )
 
 ///////////////////////////////////////////////////////////////////////////////////

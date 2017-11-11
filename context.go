@@ -8,8 +8,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/aarzilli/nucular/command"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/Varunram/nucular/command"
+	nstyle "github.com/Varunram/nucular/style"
 
 	"github.com/golang/freetype/raster"
 

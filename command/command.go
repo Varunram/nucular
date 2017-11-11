@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/aarzilli/nucular/rect"
+	"github.com/Varunram/nucular/rect"
 
 	"golang.org/x/image/font"
 )

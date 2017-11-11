@@ -12,10 +12,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/aarzilli/nucular/clipboard"
-	"github.com/aarzilli/nucular/command"
-	"github.com/aarzilli/nucular/rect"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/Varunram/nucular/clipboard"
+	"github.com/Varunram/nucular/command"
+	"github.com/Varunram/nucular/rect"
+	nstyle "github.com/Varunram/nucular/style"
 
 	"golang.org/x/exp/shiny/driver"
 	"golang.org/x/exp/shiny/screen"
