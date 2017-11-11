@@ -22,7 +22,6 @@ void startDriver();
 void stopDriver();
 void makeCurrentContext(uintptr_t ctx);
 void flushContext(uintptr_t ctx);
-uintptr_t doNewWindow(int width, int height, char* title);
 void doShowWindow(uintptr_t id);
 void doCloseWindow(uintptr_t id);
 uint64_t threadID();
